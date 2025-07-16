@@ -8,3 +8,7 @@ grammar book of physics
 - ci test suite
 - PyPi package
 - live dashboard (must install to view)
+
+---
+
+How quantum is life? I have no idea. but I thought about it and came up with this.
