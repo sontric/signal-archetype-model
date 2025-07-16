@@ -8,3 +8,4 @@ grammar book of physics
 - ci test suite
 - PyPi package
 - live dashboard (must install to view)
+- targeting FQXI's upcoming paper competition: "how quantum is life". I want to make this and open paper that anyone can contribute to. I will set up a trigger that will auto email the paper as found in this repo the week before the essay deadline.
