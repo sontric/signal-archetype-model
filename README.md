@@ -2,6 +2,7 @@
 grammar book of physics
 
 ## Roadmap / outline
+- Read the white papers for now, this is early stages. Goal is to save the world. help us if you can.
 - [GridEye](https://fnetpublic.utk.edu/) or similar as a live data source (any grid controller would have good sources :) so maybe this can be an idealab or plugin somehow. not sure yet.
 - inverters should be thought of as 4D printers (PV, MPPT) printing into sort universe of Geometric unity, a specific shape or song of power
 - inverters in statcom are like tuners for the Grid, balancing it on a per-cycle basis (I think?)
