@@ -7,16 +7,13 @@ grammar book of physics
 - If we take Einstein's energy-mass equivalence seriously, then inverters should be thought of as 4D printers (especially in the case of PV, I think), which print power (envelopes / shapes / songs) into the universe
 - inverters in statcom are like tuners for the Grid, balancing it on a per-cycle basis (I think?)
 - inverters in BESS modes can stabilize across multiple cycles or long durations
-- Standard Model as a unique case of SAM-QFT
+- The Standard Model of Quantum Mechanics may be seen as a unique case of SAM-QFT, like a subset
 - ci test suite (targeting 3 levels of validation)
 - PyPI package (because why not, and I want to use this elsewhere)
 - live dashboard (must install package to view?)
 
 ---
-
-How quantum is life? I have no idea. but I thought about it and came up with this.
-
-I don't know what other implications this may have, and that deeply concerns me. However, the potential application for grid stability, and stability of other systems, is too great to ignore.
+maybe this was a bad idea. I hope not.
 
 ---
 
